@@ -16,8 +16,8 @@ const pwaOptions: Partial<VitePWAOptions> = {
   registerType: 'autoUpdate',
   includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
   manifest: {
-    name: '表了个情',
-    short_name: '表了个情',
+    name: '花了个花',
+    short_name: '花了个花',
     theme_color: '#00aba9',
     display: 'standalone',
     icons: [
